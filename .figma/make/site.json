@@ -1,0 +1,10 @@
+{
+  "description": "Offers comprehensive urban mobility solutions by tracking and analyzing transportation patterns to optimize city travel for commuters and planners.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
