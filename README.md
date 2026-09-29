@@ -1,6 +1,6 @@
-# UrbanTrace
+# TRAJEX
 
-UrbanTrace is a small end-to-end prototype for vehicle observations and multi-camera trajectory reconstruction. It uses the existing traffic video twice: once as C01 Madiwala Signal and once as C02 St John's Signal. The streams have independent YOLO + ByteTrack workers and camera-local track IDs.
+Trajex is a small end-to-end prototype for vehicle observations and multi-camera trajectory reconstruction. It uses the existing traffic video twice: once as C01 Madiwala Signal and once as C02 St John's Signal. The streams have independent YOLO + ByteTrack workers and camera-local track IDs.
 
 ## Setup
 
